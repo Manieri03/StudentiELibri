@@ -41,8 +41,7 @@
                                     <ColumnDefinition></ColumnDefinition>
                                 </Grid.ColumnDefinitions>
 
-                                <Label Content="STUDENTE" Grid.Row="0" Grid.Column="0" Gri
-                                       d.ColumnSpan="2" FontSize="20" Foreground="BlueViolet" FontWeight="Bold" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Caladea" />
+                                <Label Content="STUDENTE" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" FontSize="20" Foreground="BlueViolet" FontWeight="Bold" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Caladea" />
                                 <Label Content="Nome" Grid.Row="1" Grid.Column="0" FontSize="20" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Caladea" />
                                 <TextBox x:Name="txtnome" Grid.Row="1" Grid.Column="1" FontSize="20" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Width="180" Height="40"/>
                                 <Label Content="Cognome" Grid.Row="2" Grid.Column="0" FontSize="20" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Caladea" />
